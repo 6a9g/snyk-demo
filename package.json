@@ -1,0 +1,12 @@
+{
+  "name": "snyk-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Small project for learning vulnerability scanning",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "lodash": "4.17.20"
+  }
+}
